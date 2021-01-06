@@ -1,2 +1,3 @@
 # git-test
-coursera
+#coursera
+#testing git repository
